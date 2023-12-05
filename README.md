@@ -7,5 +7,6 @@ created by CARBONTE LTD. 2023 and released under the MIT licence.
 for building instructions check out this youtube video or alternatively browse
 the parts section of this build: https://www.youtube.com/watch?v=fSmTCypNuMk
 
+[![GG IWATCH 23](GGIWATCH23.jpg)](https://www.youtube.com/watch?v=fSmTCypNuMk  "GG IWATCH 23")
 
 

@@ -1,3 +1,5 @@
+![Image](GGIWATCH23.png)
+
 # GGIWATCH23
 picoW/micropython based, 3d printed, internet capable digital watch
 created by CARBONTE LTD. 2023 and released under the MIT licence.

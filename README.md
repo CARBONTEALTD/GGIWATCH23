@@ -1,4 +1,4 @@
-![Image](GGIWATCH23.png)
+![Image](GGIWATCH23.jpg)
 
 # GGIWATCH23
 picoW/micropython based, 3d printed, internet capable digital watch
